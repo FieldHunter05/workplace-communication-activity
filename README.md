@@ -26,7 +26,7 @@ BEGIN
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
     END FUNCTION
 
-    ‘PATCH’
+    ‘PATCH’  MEANS A SMALL SOFTWARE UPDATE TO FIX AN ISSUE.
 
     CALL MorningSyncMeeting()
 END
